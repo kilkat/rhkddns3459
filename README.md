@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/rhkddns3459" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/k_kilkat" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-####  ✉️ My Study Blog
+####  📓 My Study Blog
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 <br/>
   
-####  :lang & tools: Once I've Used 
+####  💻 Lang & Tools: Once I've Used 
 
 <br/>
   
@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-####  :infra: Once I've Used
+####  ☁️ Infra: Once I've Used
 
 <br/>
 
@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-####  :devsecops: Once I've Used
+####  💻 DevSecOps: Once I've Used
 
 <br/>
 
@@ -84,7 +84,7 @@
 <br/>
 <br/>
   
-#### :pencil2: Study log
+#### ✍ Study log
 
 <br/>
   
