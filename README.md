@@ -10,14 +10,14 @@
 <br/>
 <br/>
   
-####  ✉️ SNS List
+####  ✉️ 연락처 목록
 
 <br/>
   
 <a href="https://www.facebook.com/rhkddns3459" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/k_kilkat" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-####  📓 My Study Blog
+####  📓 스터디 블로그 & 포트폴리오
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 <br/>
   
-####  💻 Lang & Tools: Once I've Used 
+####  💻 개발 언어 & 사용가능 툴
 
 <br/>
   
@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-####  ☁️ Infra: Once I've Used
+####  ☁️ 인프라 경험 & 사용 가능 기술 스택
 
 <br/>
 
@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-####  💻 DevSecOps: Once I've Used
+####  💻 DevSecOps 직무로 경험한 기술 스택
 
 <br/>
 
@@ -84,7 +84,7 @@
 <br/>
 <br/>
   
-#### ✍ Study log
+#### ✍ 깃허브브 통계
 
 <br/>
   
