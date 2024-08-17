@@ -50,8 +50,8 @@
 <img src="https://img.shields.io/badge/amazonecs-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white">
 <img src="https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white">
 <img src="https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white">
-<img src="https://img.shields.io/badge/naver cloud-03C75A?style=for-the-badge&logo=naver cloud&logoColor=white">
-<img src="https://img.shields.io/badge/kt cloud-03C75A?style=for-the-badge&logo=kt cloud&logoColor=white">
+<img src="https://img.shields.io/badge/naver cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+<img src="https://img.shields.io/badge/kt cloud-E02027?style=for-the-badge&logo=kt cloud&logoColor=white">
 
 ####  :devsecops: Once I've Used
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/fortinets-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
 <img src="https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=white">
-// 이어서 작성해야함
+<!-- 이어서 작성해야함 --!>
 <img src="https://img.shields.io/badge/diagramsdotnet-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
 
 <br/>
