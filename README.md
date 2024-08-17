@@ -34,9 +34,35 @@
 <img src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-###  :infra: Once I've Used
+####  :infra: Once I've Used
 
-<img src="https://img.shields.io/badge/awsfargate-FF9900?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/awsfargate-FF9900?style=for-the-badge&logo=awsfargate&logoColor=white">
+<img src="https://img.shields.io/badge/awsorganizations-E7157B?style=for-the-badge&logo=awsorganizations&logoColor=white">
+<img src="https://img.shields.io/badge/awssecretsmanager-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white">
+<img src="https://img.shields.io/badge/awselasticloadbalancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white">
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<img src="https://img.shields.io/badge/amazondynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
+<img src="https://img.shields.io/badge/amazoncloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazonecs-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white">
+<img src="https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white">
+<img src="https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white">
+<img src="https://img.shields.io/badge/naver cloud-03C75A?style=for-the-badge&logo=naver cloud&logoColor=white">
+<img src="https://img.shields.io/badge/kt cloud-03C75A?style=for-the-badge&logo=kt cloud&logoColor=white">
+
+####  :devsecops: Once I've Used
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/fortinets-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
+<img src="https://img.shields.io/badge/fortinets-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
+<img src="https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=white">
+// 이어서 작성해야함
+<img src="https://img.shields.io/badge/diagramsdotnet-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
 
 <br/>
 <br/>
