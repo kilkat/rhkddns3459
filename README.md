@@ -22,7 +22,7 @@
 <br/>
 <br/>
   
-####  :clipboard: Once I've Used 
+####  :lang & tools: Once I've Used 
 
 <br/>
   
@@ -33,6 +33,10 @@
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+###  :infra: Once I've Used
+
+<img src="https://img.shields.io/badge/awsfargate-FF9900?style=for-the-badge&logo=github&logoColor=white">
 
 <br/>
 <br/>
