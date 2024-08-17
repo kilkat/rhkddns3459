@@ -58,6 +58,7 @@
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/fortinets-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
 <img src="https://img.shields.io/badge/fortinets-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
+<img src="https://img.shields.io/badge/bluemax vpn-EE3124?style=for-the-badge&logo=bluemax vpn&logoColor=white">
 <img src="https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=white">
 <!-- 이어서 작성해야함 --!>
