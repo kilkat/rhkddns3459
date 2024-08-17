@@ -16,6 +16,11 @@
   
 <a href="https://www.facebook.com/rhkddns3459" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/k_kilkat" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+####  ✉️ My Study Blog
+
+<br/>
+
 <a href="https://kilkat.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 <br/>
